@@ -1,0 +1,47 @@
+
+  .black {
+    color: black;
+    text-align: center;
+}
+
+.styledFont {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+  .red {
+    color: red;
+  }
+
+  .blue {
+    color: blue;
+  }
+
+  .green {
+    color: green;
+  }
+ 
+  .fontb {
+    font-size:x-large;
+  }
+
+  .fonts {
+    font-size:x-small;
+  }
+
+.fontw {
+  font-weight: bold;
+}
+
+.fontf {
+  font-family: "Papyrus", "Courier New", "fantasy";
+}
+
+.orange {
+  color: orange;
+}
+
+#styledImage {
+  border-style: solid;
+  border-color: orange;
+  border-width: 8px;
+}
